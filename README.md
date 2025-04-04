@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @TBYBY
-- 👀 I’m interested in java && IO
-- 🌱 I’m currently learning springboot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👋 Hi, I’m YBY
+- 👀 I’m a SDE in bank, 在职银行程序员一枚
+- 🌱 I’m currently learning os & 826. 操作系统以及四大件学习中
 
 <!---
 TBYBY/TBYBY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
